@@ -41,7 +41,7 @@ def operadora(i):
 
 
     cookies = {
-
+        #Precisar por o Cookies nessa parte. Retirei para nao ter copia
     }
 
     headers = {
